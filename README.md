@@ -16,7 +16,7 @@ Since then, I've had an incredible passion for building impactful projects. I es
 
 Currently, I have a strong foundation in frontend development, and have been increasing by backend knowledge over the years. I have worked extensively with a variety of CI/CD tools, databases, and testing libraries, but despite that, I continue being hungry for more. 
 
-However, despite my thirst for knowlegde, in the end, I'm only satisfied when I can be part of a team, creating and bringing value to and with others. After all, the best achievements are best celebrated with others, right?
+However, despite my thirst for knowlegde, in the end, I'm only satisfied when I can be part of a team, creating and bringing value to and with others. After all, the best achievements are best celebrated with others.
 
 ## 📈 Stats
 <div width="100%">
