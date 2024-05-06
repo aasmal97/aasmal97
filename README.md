@@ -1,4 +1,4 @@
-<img src="./Intro Banner.png"/>
+<img src="./images/Intro Banner.png"/>
 <br>
 <p align="center">
   <a href="https://arkyasmal.com/" target="_blank">
@@ -19,15 +19,32 @@ Currently, I have a strong foundation in frontend development, and have been inc
 However, despite my thirst for knowlegde, in the end, I'm only satisfied when I can be part of a team, creating and bringing value to and with others. After all, the best achievements are best celebrated with others.
 
 ## 📈 Stats
-<div width="100%">
-    <img height="185px" src="https://github-readme-stats.vercel.app/api?username=aasmal97&amp;bg_color=00000000&amp;text_color=DCDCDC&amp;border_color=00000000&amp;title_color=FFC83A&amp;show_icons=true&amp;icon_color=D26464" />
-    <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasmal97&amp;layout=compact&amp;bg_color=00000000&amp;text_color=DCDCDC&amp;title_color=FFC83A&amp;border_color=00000000" /> 
-<div>
 
+<picture height="185px">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=aasmal97&amp;bg_color=00000000&amp;text_color=DCDCDC&amp;border_color=00000000&amp;title_color=FFC83A&amp;show_icons=true&amp;icon_color=D26464"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=aasmal97&amp;bg_color=00000000&amp;border_color=00000000&amp;title_color=FFC83A&amp;show_icons=true&amp;icon_color=D26464"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="185px" src="https://github-readme-stats.vercel.app/api?username=aasmal97&amp;show_icons=true" />
+</picture>
+<picture height="185px">
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aasmal97&amp;layout=compact&amp;bg_color=00000000&amp;text_color=DCDCDC&amp;title_color=FFC83A&amp;border_color=00000000"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aasmal97&amp;layout=compact&amp;bg_color=00000000&amp;title_color=FFC83A&amp;border_color=00000000"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasmal97&amp;layout=compact" /> 
+</picture>
 <h2>🛠️ Skills</h2>
 <table width="100%">
     <tr>
-        <td width=120px>📋 Languages</td>
+        <td width="120px">📋 Languages</td>
         <td>
             <a href="https://www.typescriptlang.org/">
                 <img src="https://skillicons.dev/icons?i=ts&perline=1" />
@@ -79,7 +96,7 @@ However, despite my thirst for knowlegde, in the end, I'm only satisfied when I 
         </td>
     </tr>
     <tr>
-        <td width=120px>🕸️ Frameworks</td>
+        <td width="120px">🕸️ Frameworks</td>
         <td>
             <a href="https://nodejs.org/en">
                 <img src="https://skillicons.dev/icons?i=nodejs&perline=1" />
@@ -131,7 +148,7 @@ However, despite my thirst for knowlegde, in the end, I'm only satisfied when I 
         </td>
     </tr>
     <tr>
-        <td width=120px>📚 Libraries/SDKs</td>
+        <td width="120px">📚 Libraries/SDKs</td>
         <td>
             <a href="https://clerk.com/">
                 <img src="https://simpleskill.icons.workers.dev/svg?i=clerk" />
@@ -207,7 +224,7 @@ However, despite my thirst for knowlegde, in the end, I'm only satisfied when I 
             </a>
         </td>
 <tr>
-        <td width=120px>♾️ CI/CD Tools</td>
+        <td width="120px">♾️ CI/CD Tools</td>
         <td>
             <a href="https://git-scm.com/">
                 <img src="https://skillicons.dev/icons?i=git&perline=1" />
@@ -256,7 +273,7 @@ However, despite my thirst for knowlegde, in the end, I'm only satisfied when I 
     </tr>
     </tr>
         <tr>
-        <td width=120px>💽 Databases</td>
+        <td width="120px">💽 Databases</td>
         <td>
             <a href="https://www.mongodb.com/">
                 <img src="https://skillicons.dev/icons?i=mongodb&perline=1" />
@@ -274,7 +291,7 @@ However, despite my thirst for knowlegde, in the end, I'm only satisfied when I 
         </td>
     </tr>
     <tr>
-        <td width=120px>🧪 Testing</td>
+        <td width="120px">🧪 Testing</td>
         <td>
             <a href="https://jestjs.io/">
                 <img src="https://skillicons.dev/icons?i=jest&perline=5" />
@@ -291,7 +308,7 @@ However, despite my thirst for knowlegde, in the end, I'm only satisfied when I 
         </td>
     </tr>
     <tr>
-        <td width=120px>🎨 Design</td>
+        <td width="120px">🎨 Design</td>
         <td>
             <a href="https://www.figma.com/file/vGzD4jpTEGU5UXk3fJRB2J/Untitled?type=design&mode=design&t=kZ3IHjUtUOrY08w0-0">
                 <img src="https://skillicons.dev/icons?i=figma&perline=5" />
