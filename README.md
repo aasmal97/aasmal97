@@ -1,6 +1,6 @@
 <img src="./Intro Banner.png"/>
 
-## My story 
+## 📖 My story 
 My story with technology began at age 5, when my parents bought our first family computer. Due to my youthful mischievousness, I would always find programs that would crack old games, for the sole purpose of beating my brother in them. As I grew up, my interest in technology merged with my desire to help and empower others. This lead to my use of Python in highschool, to perform image and data analysis on thousands of images and data points respectively. The results were used by researchers, to create innovative methods to treat atherosclerosis. 
 
 Since then, I've had an incredible passion for building impactful projects. I especially enjoy those related to education, health, and technology, as I have a deep love for these industries, but as long as the project is challenging, I’m satisfied.
@@ -9,13 +9,13 @@ Currently, I have a strong foundation in frontend development, and have been inc
 
 However, despite my thirst for knowlegde, in the end, I'm only satisfied when I can be part of a team, creating and bringing value to and with others. After all, the best achievements are best celebrated with others, right?
 
-## Stats
+## 📈 Stats
 <div width="100%">
     <img height="185px" src="https://github-readme-stats.vercel.app/api?username=aasmal97&amp;bg_color=00000000&amp;text_color=DCDCDC&amp;border_color=00000000&amp;title_color=FFC83A&amp;show_icons=true&amp;icon_color=D26464" />
     <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasmal97&amp;layout=compact&amp;bg_color=00000000&amp;text_color=DCDCDC&amp;title_color=FFC83A&amp;border_color=00000000" /> 
 <div>
 
-<h2>Skills</h2>
+<h2>🛠️ Skills</h2>
 <table width="100%">
     <tr>
         <td width=120px>📋 Languages</td>
