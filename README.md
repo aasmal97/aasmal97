@@ -4,7 +4,7 @@
   <a href="https://arkyasmal.com/" target="_blank">
     <img alt="portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-white?style=for-the-badge&logoColor=black"/>
   </a>
-  <a href="www.linkedin.com/in/arky-asmal" target="_blank">
+  <a href="https://www.linkedin.com/in/arky-asmal" target="_blank">
     <img alt="linkedin_logo" src="https://img.shields.io/badge/-LinkedIn-3178C6?style=for-the-badge&logo=linkedIn&logoColor=white" />
   </a>
 </p>
