@@ -1,13 +1,18 @@
 <img src="./images/Intro Banner.png"/>
 <br>
-<p align="center">
+<div align="center" >
   <a href="https://arkyasmal.com/" target="_blank">
     <img alt="portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-white?style=for-the-badge&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/arky-asmal" target="_blank">
     <img alt="linkedin_logo" src="https://img.shields.io/badge/-LinkedIn-3178C6?style=for-the-badge&logo=linkedIn&logoColor=white" />
   </a>
-</p>
+</div>
+<br/>
+<div align="center">
+   <a href="https://www.buymeacoffee.com/arkyasmal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</div>
+<br/>
 
 ## 📖 My story 
 My story with technology began at age 5, when my parents bought our first family computer. Due to my youthful mischievousness, I would always find programs that would crack old games, for the sole purpose of beating my brother in them. As I grew up, my interest in technology merged with my desire to help and empower others. This led to my use of Python in high school, to perform image and data analysis on thousands of images and data points respectively. The results were used by researchers to create innovative methods to treat atherosclerosis.
