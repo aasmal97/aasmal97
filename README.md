@@ -21,8 +21,8 @@ Since then, I've had an incredible passion for building impactful projects. I es
 Currently, I have a strong foundation in front-end development, and have been increasing by backend knowledge over the years. I have worked extensively with a variety of CI/CD tools, databases, and testing libraries, but despite that, I continue to be hungry for more.
 
 However, despite my thirst for knowledge, in the end, I'm only satisfied when I can be part of a team, creating and bringing value to and with others. After all, the best achievements are best celebrated with others.
-
-## 📈 Stats
+<!--
+<h2> 📈 Stats </h2>
 
 <picture height="185px">
     <source srcset="https://github-readme-stats.vercel.app/api?username=aasmal97&amp;bg_color=00000000&amp;text_color=DCDCDC&amp;border_color=00000000&amp;title_color=FFC83A&amp;show_icons=true&amp;icon_color=D26464"
@@ -45,6 +45,7 @@ However, despite my thirst for knowledge, in the end, I'm only satisfied when I 
     />
     <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasmal97&amp;layout=compact" /> 
 </picture>
+-->
 <h2>🛠️ Skills</h2>
 <table width="100%">
     <tr>
